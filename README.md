@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Update personal page this afternoon :v
+![](https://visitcount.itsvg.in/api?id=giaquy-Dev)
 
 <!--
 **giaquy-Dev/giaquy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
