@@ -30,4 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giaquy-dev&show_icons=true&locale=en&layout=compact" alt="Dinh Gia Quy" /></p>
 
 <br>
-![](https://visitcount.itsvg.in/api?id=giaquy-dev
+
