@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Update personal page this afternoon :v
 ![](https://visitcount.itsvg.in/api?id=giaquy-Dev)
-- Ngôn ngữ lập trình của tôi là HTML PYTHON
+- Haru dev ( 2008 )
 <!--
 **giaquy-Dev/giaquy-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
