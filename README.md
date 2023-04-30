@@ -14,7 +14,7 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 - My site [No site now :bb]
-- view profile ![](https://visitcount.itsvg.in/api?id=giaquy-dev)
+- view profile [![](https://visitcount.itsvg.in/api?id=Haruki&label=Profile%20view&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <h3 align="left">Contact me:</h3>
 <div> 
